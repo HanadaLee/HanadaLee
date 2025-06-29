@@ -41,7 +41,7 @@ Shell/Bash, Python, C, Lua, PHP...
 
 ### OSS Contributed
 
-- [dnsmgr](https://github.com/HanadaLee/dnsmgr) 彩虹聚合DNS管理系统
+- [dnsmgr](https://github.com/netcccyun/dnsmgr) 彩虹聚合DNS管理系统
 - [zstd-nginx-module](https://github.com/tokers/zstd-nginx-module) Nginx modules for the Zstandard compression
 
 ### Projects Maintaining
