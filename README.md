@@ -10,6 +10,7 @@ Shell/Bash, Python, C, Lua, PHP...
 - [ngx_http_rewrite_status_filter_module](https://github.com/HanadaLee/ngx_http_rewrite_status_filter_module) A filter module used to rewrite response status code
 - [ngx_http_compress_normalize_module](https://github.com/HanadaLee/ngx_http_compress_normalize_module) Parse, normalize, and manage the Accept-Encoding headers from client requests
 - [ngx_http_access_control_module](https://github.com/HanadaLee/ngx_http_access_control_module) A custom Nginx module for advanced access control based on variables
+- [ngx_http_proxy_auth_akamai_netstorage_module](https://github.com/HanadaLee/ngx_http_proxy_auth_akamai_netstorage_module) an Nginx module that automatically generates Akamai NetStorage authentication headers for proxy requests to Akamai NetStorage.
 - [ngx_http_server_redirect_module](https://github.com/HanadaLee/ngx_http_server_redirect_module) Redirect server name in the same request
 - [ngx_http_internal_redirect_module](https://github.com/HanadaLee/ngx_http_internal_redirect_module) A nginx module to make an internal redirect to the uri specified
 - [ngx_http_proxy_var_set_module](https://github.com/HanadaLee/ngx_http_proxy_var_set_module) Allows setting the variable to the given value during processing of proxy response
@@ -26,6 +27,7 @@ Shell/Bash, Python, C, Lua, PHP...
 
 ### Projects Forked
 
+- [ngx_http_auth_akamai_g2o_module](https://github.com/HanadaLee/ngx_http_auth_akamai_g2o_module) Nginx Module for Authenticating Akamai G2O requests
 - [ngx_http_proxy_auth_aws_module](https://github.com/HanadaLee/ngx_http_proxy_auth_aws_module) nginx module to proxy to authenticated AWS services
 - [ngx_http_extra_variables_module](https://github.com/HanadaLee/ngx_http_extra_variables_module) A collection of extra variables for nginx that I've found useful
 - [ngx_http_unbrotli_filter_module](https://github.com/HanadaLee/ngx_http_unbrotli_filter_module) A nginx filter module that decompresses responses with Content-Encoding: br for clients that do not support brotli encoding method
