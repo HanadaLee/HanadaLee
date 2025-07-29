@@ -39,6 +39,7 @@ Shell/Bash, Python, C, Lua, PHP...
 - [ngx_http_auth_ldap_module](https://github.com/HanadaLee/ngx_http_auth_ldap_module) LDAP authentication module for nginx
 - [ngx_http_auth_hmac_module](https://github.com/HanadaLee/ngx_http_auth_hmac_module) Auth HMAC module for NGINX
 - [ngx_http_security_headers_module](https://github.com/HanadaLee/ngx_http_security_headers_module) NGINX Module for sending security headers
+- [ngx_http_ua_parser_module](https://github.com/HanadaLee/ngx_http_ua_parser_module) Wrapper for uap-cpp as an nginx module
 - [lua-resty-maxminddb](https://github.com/HanadaLee/lua-resty-maxminddb) A Lua library for reading MaxMind's Geolocation database
 
 ### OSS Contributed
