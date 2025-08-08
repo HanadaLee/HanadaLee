@@ -24,6 +24,7 @@ Shell/Bash, Python, C, Lua, PHP...
 - [ngx_http_auth_internal_module](https://github.com/HanadaLee/ngx_http_auth_internal_module) Provides internal request authentication by validating a custom HTTP header (default is X-Fingerprint) against a set of predefined secrets
 - [ngx_http_auth_hash_module](https://github.com/HanadaLee/ngx_http_auth_hash_module) Auth Hash module for NGINX
 - [ngx_http_lua_config_module](https://github.com/HanadaLee/ngx_http_lua_config_module) Allows defining key-value configuration items in Nginx configuration for lua modules
+- [ngx_http_request_cookies_filter_module](https://github.com/HanadaLee/ngx_http_request_cookies_filter_module) A NGINX module for fine-grained request cookies control
 
 ### Projects Forked
 
@@ -50,3 +51,4 @@ Shell/Bash, Python, C, Lua, PHP...
 ### Projects Maintaining
 
 - [clearision](https://github.com/tamersunion/clearision) A HTML5 Double Style Wordpress Theme
+
